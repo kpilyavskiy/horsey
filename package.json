@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/bevacqua/horsey",
   "dependencies": {
-    "bullseye": "git://github.com/kpilyavskiy/bullseye.git",
+    "bullseye": "https://github.com/kpilyavskiy/bullseye",
     "contra": "1.9.4",
     "crossvent": "1.5.4",
     "fuzzysearch": "1.0.3",
