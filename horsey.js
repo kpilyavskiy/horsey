@@ -4,7 +4,7 @@ import sum from 'hash-sum';
 import sell from 'sell';
 import sektor from 'sektor';
 import emitter from 'contra/emitter';
-import bullseye from 'bullseye';
+import bullseye from 'bullseye-rtl';
 import crossvent from 'crossvent';
 import fuzzysearch from 'fuzzysearch';
 import debounce from 'lodash/debounce';

@@ -1,6 +1,6 @@
 {
-  "name": "horsey",
-  "version": "4.2.2",
+  "name": "horsey-rtl",
+  "version": "2.0.0",
   "description": "Progressive and customizable autocomplete component",
   "main": "horsey.es5.js",
   "scripts": {
@@ -14,16 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bevacqua/horsey.git"
+    "url": "https://github.com/kpilyavskiy/horsey.git"
   },
-  "author": "Nicolas Bevacqua <nicolasbevacqua@gmail.com> (http://bevacqua.io/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bevacqua/horsey/issues"
+    "url": "https://github.com/kpilyavskiy/horsey/issues"
   },
-  "homepage": "https://github.com/bevacqua/horsey",
+  "homepage": "https://github.com/kpilyavskiy/horsey",
   "dependencies": {
-    "bullseye": "https://github.com/kpilyavskiy/bullseye.git",
+    "bullseye-rtl": "1.1.0",
     "contra": "1.9.4",
     "crossvent": "1.5.4",
     "fuzzysearch": "1.0.3",
